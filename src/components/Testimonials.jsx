@@ -19,7 +19,6 @@ const Testimonials = () => (
           anywhere on the planet.</p>
        </div>
       </div>
-
     </section>
   )
 
